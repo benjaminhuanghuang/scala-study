@@ -15,3 +15,5 @@ def fact(x: Int): Int =
 sumInts(1, 10)
 sumCubes(1, 10)
 sumFactorials(1, 10)
+
+
